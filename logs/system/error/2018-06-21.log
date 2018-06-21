@@ -4,3 +4,9 @@
 2018/06/21 12:06:18 logHelper.go:54: [读取配置文件出错]open /Users/ljw/Documents/study/golang/todoList/.env: no such file or directory
 
 2018/06/21 12:07:44 logHelper.go:54: [读取配置文件出错]open /Users/ljw/Documents/study/golang/todoList/.env: no such file or directory
+
+2018/06/21 21:07:27 logHelper.go:54: 数据库连接失败
+
+2018/06/21 21:12:19 logHelper.go:54: 数据库连接失败
+
+2018/06/21 21:27:54 logHelper.go:54: 数据库连接失败

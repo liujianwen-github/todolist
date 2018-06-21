@@ -1,0 +1,6 @@
+
+2018/06/21 12:04:31 logHelper.go:54: [读取配置文件出错]open /Users/ljw/Documents/study/golang/todoList/.env: no such file or directory
+
+2018/06/21 12:06:18 logHelper.go:54: [读取配置文件出错]open /Users/ljw/Documents/study/golang/todoList/.env: no such file or directory
+
+2018/06/21 12:07:44 logHelper.go:54: [读取配置文件出错]open /Users/ljw/Documents/study/golang/todoList/.env: no such file or directory

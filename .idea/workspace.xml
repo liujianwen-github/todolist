@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d18940f5-6da1-43d8-a2f6-f9f9d8044180" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>symbol</find>
+      <find>res</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller.go" />
+        <option value="$PROJECT_DIR$/src/controller/route/controller.go" />
+        <option value="$PROJECT_DIR$/index.go" />
+        <option value="$PROJECT_DIR$/src/index.go" />
+        <option value="$PROJECT_DIR$/src/main/index.go" />
+        <option value="$PROJECT_DIR$/src/controller/route/config.go" />
+        <option value="$PROJECT_DIR$/src/db/mongo.go" />
+        <option value="$PROJECT_DIR$/src/middleware/Auth.go" />
+        <option value="$PROJECT_DIR$/src/controller/route/Route.go" />
+        <option value="$PROJECT_DIR$/src/controller/route/index.go" />
+        <option value="$PROJECT_DIR$/.env-develop" />
+        <option value="$PROJECT_DIR$/.env-pro" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/middleware/AuthMiddleWare.go" />
+        <option value="$PROJECT_DIR$/controller/index.go" />
+        <option value="$PROJECT_DIR$/controller/todoItem.go" />
+        <option value="$PROJECT_DIR$/router/router.go" />
+        <option value="$PROJECT_DIR$/Godeps/Godeps.go" />
+        <option value="$PROJECT_DIR$/Godeps/Godeps.json" />
+        <option value="$PROJECT_DIR$/app/Godeps/Godeps.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="119" />
+    <option name="y" value="49" />
+    <option name="width" value="1311" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="todoList" type="cbb8eebc:String" user="todoList" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="todoList" type="cbb8eebc:String" user="todoList" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todoList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Godeps/_workspace" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/Godeps/_workspace/src" />
+      <recent name="$PROJECT_DIR$/Godeps" />
+      <recent name="$PROJECT_DIR$/_workspace" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="119" y="49" width="1311" height="1000" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26697177" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37580994" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.33909288" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/index.go" />
+    <entry file="file://$PROJECT_DIR$/src/controller/route/index.go" />
+    <entry file="file://$PROJECT_DIR$/src/db/mongo.go" />
+    <entry file="file://$PROJECT_DIR$/src/controller/route/Route.go" />
+    <entry file="file://$PROJECT_DIR$/src/middleware/AuthMiddlewate.go" />
+    <entry file="file://$PROJECT_DIR$/../src/github.com/acroca/go-symbols/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/route/config.go" />
+    <entry file="file://$PROJECT_DIR$/src/controller/route/index.go" />
+    <entry file="file://$PROJECT_DIR$/src/db/mongo.go" />
+    <entry file="file://$PROJECT_DIR$/src/controller/route/Route.go" />
+    <entry file="file://$PROJECT_DIR$/src/Godeps/Godeps.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/index.go" />
+    <entry file="file://$PROJECT_DIR$/src/middleware/AuthMiddlewate.go" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/.env-develop" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/.env-pro" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/middleware/AuthMiddleWare.go" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/main.go" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/router/router.go" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/logs/notify/access/2018-06-21.log" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/logs/system/error/2018-06-21.log" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/controller/index.go" />
+    <entry file="file://$PROJECT_DIR$/Godeps/_workspace/src/controller/todoItem.go" />
+    <entry file="file://$PROJECT_DIR$/app/Godeps/Godeps.json" />
+  </component>
+</project>

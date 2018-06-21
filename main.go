@@ -1,6 +1,6 @@
-package app
+package main
 import (
-	."./src/router"
+	."./router"
 )
 func main()  {
 	println("1")

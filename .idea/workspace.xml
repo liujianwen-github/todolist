@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d18940f5-6da1-43d8-a2f6-f9f9d8044180" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/dbConf.go" beforeDir="false" afterPath="$PROJECT_DIR$/config/dbConf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/todoItem.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/todoItem.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/models/todo.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/models/todo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao/mongo/mongo.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/mongo/mongo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/mangodb/error/2018-06-21.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mongodb/error/2018-06-22.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/mongodb/error/2018-06-22.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,8 +64,8 @@
       <file leaf-file-name="mongo.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dao/mongo/mongo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="139">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="42" />
               <folding>
                 <element signature="e#15#95#0" expanded="true" />
               </folding>
@@ -82,7 +76,7 @@
       <file leaf-file-name="2018-06-22.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/mongodb/error/2018-06-22.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-382">
+            <state relative-caret-position="585">
               <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
             </state>
           </provider>
@@ -265,7 +259,7 @@
     <frame x="119" y="49" width="1311" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26697177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26697177" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -273,7 +267,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.49460045" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.49460045" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,13 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/mongodb/error/2018-06-22.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-382">
-          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dao/models/todo.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -438,10 +425,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/logs/mongodb/error/2018-06-22.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="67" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dao/mongo/mongo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="139">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="42" />
           <folding>
             <element signature="e#15#95#0" expanded="true" />
           </folding>

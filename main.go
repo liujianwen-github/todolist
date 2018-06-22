@@ -2,16 +2,17 @@ package main
 
 import (
 	. "./router"
-	"todoList/dao/mongo"
 )
 
 func main() {
 	println("1")
 	router := InitRouter()
 
-	_, collection := mongo.CreateModel("todoList")
-	if collection == nil {
-		println("error")
-	}
+	//session, _ := mongo.CreateModel("todoList")
+	////_, err := models.AddTodo(&models.TODO{"title", "content"})
+	//if session == nil {
+	//	println("error" )
+	//}
+	//println("success")
 	router.Run(":8000")
 }

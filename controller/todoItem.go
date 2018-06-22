@@ -9,11 +9,16 @@ import (
 func AddTodo(c *gin.Context) {
 	title := c.Request.FormValue("title")
 	content := c.Request.FormValue("content")
-	_, err := models.AddTodo(&models.TODO{title, content})
+	status, err := models.AddTodo(&models.TODO{title, content})
+	println(status)
 	if err != nil {
-		c.String(http.StatusForbidden, "failed")
+		//msg := make(map[string]interface{})
+		//msg["status"] = 200
+		//d, _ := json.Marshal(msg)
+		c.String(http.StatusForbidden,"failed")
+	} else {
+		c.String(http.StatusOK, "add")
 	}
-	c.String(http.StatusOK, "add")
 }
 func DeleteTodo(c *gin.Context) {
 	c.String(http.StatusOK, "delete")

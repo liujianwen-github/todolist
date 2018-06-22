@@ -13,7 +13,7 @@ import (
 //	db string
 //}
 var MongoConf = &mgo.DialInfo{
-	Addrs:     []string{"47.104.7.232"},
+	Addrs:     []string{"47.104.7.232:27017"},
 	Direct:    false,
 	Timeout:   time.Second * 1,
 	Database:  "todo",

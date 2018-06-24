@@ -21,9 +21,9 @@ func InitRouter() *gin.Engine {
 	{
 		router.GET("/",IndexApi)
 		router.POST("/todo/item", AddTodo)
-		router.DELETE("/todo/item",DeleteTodo)
-		router.PUT("/todo/item",UpdateTodo)
-		router.GET("/todo/item",GetTodo)
+		router.DELETE("/todo/item/:id",DeleteTodo)
+		router.PUT("/todo/item/:id",UpdateTodo)
+		router.GET("/todo/item/:id",GetTodo)
 		router.GET("/todo/list",GetList)
 	}
 

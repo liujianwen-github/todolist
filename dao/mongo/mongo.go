@@ -13,8 +13,8 @@ func connect() *mgo.Session {
 		Direct:false,
 		Timeout:time.Second*5,
 		Database:"todo",
-		Username:"root",
-		Password:"root",
+		Username:"admin",
+		Password:"123456",
 	}
 	//mongoDialInfo,_ := mgo.ParseURL("mongodb://root:root@47.104.7.232:27017/memo")
 	//tlsConfig := &tls.Config{}
